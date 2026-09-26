@@ -1,8 +1,8 @@
-# Sistema de Controle de Chamados de Suporte Técnico — Planejamento de Projeto
+# Sistema de Controle de Chamados de Suporte Técnico - Planejamento de Projeto
 
 Este repositório reúne o planejamento inicial de um projeto fictício, desenvolvido como atividade acadêmica na disciplina de Gestão de Projetos. O objetivo foi aplicar, de forma prática, os principais artefatos de iniciação e planejamento propostos pelo PMBOK (Termo de Abertura, Stakeholders, EAP e Cronograma), utilizando o **ProjectLibre** para gerar o cronograma e o Gráfico de Gantt.
 
-> 🎓 **Contexto:** trabalho acadêmico. O cenário (empresa, orçamento, prazos) é fictício, proposto pelo enunciado da atividade, mas o planejamento foi elaborado como se fosse um projeto real.
+> **Contexto:** trabalho acadêmico. O cenário (empresa, orçamento, prazos) é fictício, proposto pelo enunciado da atividade, mas o planejamento foi elaborado como se fosse um projeto real.
 
 ## Situação-problema
 
