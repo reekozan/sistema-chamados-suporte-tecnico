@@ -105,8 +105,8 @@ Aumentar o orçamento para viabilizar a contratação de mais integrantes para a
 
 ## Tecnologias e ferramentas utilizadas
 
-- **ProjectLibre** — elaboração do cronograma e Gráfico de Gantt
-- Markdown — documentação deste repositório
+- **ProjectLibre** - elaboração do cronograma e Gráfico de Gantt
+- Markdown - documentação deste repositório
 
 ## Sobre a atividade
 
